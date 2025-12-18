@@ -5,7 +5,7 @@
 - CS 기초 (Network · OS · DB) 학습 중
 - Linux · Vim · Git 기반 개발 환경
 
-## Tech Stack
+## Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
