@@ -2,8 +2,6 @@
 
 ---
 
-## 📚 Currently Studying
-
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
