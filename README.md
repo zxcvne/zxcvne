@@ -1,5 +1,3 @@
-# Nam Hyunseo
-
 ## 🔥 About Me
 - Java / JavaScript 중심 학습
 - CS (Network · OS · DB) 학습 중
