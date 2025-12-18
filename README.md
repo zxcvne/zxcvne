@@ -1,6 +1,16 @@
-# 🔥 About Me
+# Hyunseo
 
 ---
+
+## About
+- 개발자 취업 준비 중
+- Java / JavaScript 중심 학습
+- CS 기초 (Network · OS · DB) 강화 중
+- Linux · Vim · Git 기반 개발 환경
+
+---
+
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -17,18 +27,11 @@
 
 ---
 
-## 🎯 Goals (2026)
-
-- [ ] 네트워크관리사 2급
-- [ ] 리눅스마스터 1급
-- [ ] SQLD
-- [ ] 정보처리기사 준비
-- [ ] React 학습 & 개인 서비스 출시
-- [ ] 주니어 개발자 취업
+## Study Log
+- 📘 Java TIL
+- 📕 JavaScript TIL
+- 📙 CS Notes (Network / OS / DB)
 
 ---
 
-## 📬 Contact
-
-- GitHub: https://github.com/zxcvne
-- Email: nhs8421@gmail.com
+GitHub: https://github.com/zxcvne
