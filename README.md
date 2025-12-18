@@ -1,7 +1,5 @@
 # Hyunseo
 
----
-
 ## About
 - 개발자 취업 준비 중
 - Java / JavaScript 중심 학습
