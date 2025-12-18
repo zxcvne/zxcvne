@@ -2,22 +2,7 @@
 
 ---
 
-## 🔥 About Me
-
-- 💻 개발자 취업 준비 중
-- 🌱 Java / JavaScript / Computer Science 기초 학습 중
-
----
-
 ## 📚 Currently Studying
-
-- Java 
-- JavaScript 
-- Network / OS / Database
-- Linux & Shell Script
-- Git / GitHub 협업 흐름
-
----
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
