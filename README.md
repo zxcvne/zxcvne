@@ -2,7 +2,7 @@
 
 ## 🔥 About Me
 - Java / JavaScript 중심 학습
-- CS 기초 (Network · OS · DB) 학습 중
+- CS (Network · OS · DB) 학습 중
 - Linux · Vim · Git 기반 개발 환경
 
 ## Stack
