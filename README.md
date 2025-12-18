@@ -1,7 +1,6 @@
 # Nam Hyunseo
 
 ## About Me
-- 개발자 취업 준비 중
 - Java / JavaScript 중심 학습
 - CS 기초 (Network · OS · DB) 학습 중
 - Linux · Vim · Git 기반 개발 환경
