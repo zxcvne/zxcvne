@@ -19,13 +19,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-
----
-
 ## 🎯 Goals (2026)
 
 - [ ] 네트워크관리사 2급
