@@ -17,8 +17,8 @@
 
 ### Tools & Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim)
 
 
 ## Study Log
